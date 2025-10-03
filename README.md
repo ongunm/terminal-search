@@ -27,7 +27,7 @@ A lightweight shell function that lets you ask questions directly from your term
 bash install.sh
 
 # Or manually:
-pip install openai requests
+pip install -r requirements.txt
 chmod +x shellsearch.py
 ```
 
